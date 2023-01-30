@@ -1,4 +1,4 @@
-#	30616KB	48ms
+# 30616KB	48ms
 
 def go(cnt, s, goal):
     if s > goal:
