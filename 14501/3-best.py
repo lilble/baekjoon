@@ -1,3 +1,7 @@
+#	30616KB	44ms
+
+# brute force. O(2^n)
+
 n = int(input())
 t = []
 p = []
